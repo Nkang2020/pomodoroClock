@@ -1,0 +1,45 @@
+h1{
+  font-family:lobster;
+  font-size:50px;
+}
+h3{
+  font-family:lobster;
+}
+body {
+  background-image:url("https://images.unsplash.com/37/tEREUy1vSfuSu8LzTop3_IMG_2538.jpg");
+ background-size:cover;                      
+ background-repeat:no-repeat;
+}
+#bTime{
+  position:absolute;
+  margin-left:-124px
+}
+#sTime{
+  position:absolute;
+  margin-left:49px;
+}
+#bButtons{
+  display:inline;
+  position:absolute;
+  margin-left:-131px;
+}
+#sButtons{
+  display:inline;
+  position:absolute;
+  margin-left:50px;
+}
+#time{
+  margin-top:70px;
+  border:3px solid black;
+  background-color:white;
+  border-top-left-radius:2em;
+  border-top-right-radius:2em;
+  border-bottom-left-radius:2em;
+  border-bottom-right-radius:2em;
+  padding:10px;
+  margin-left:45%;
+  margin-right:45%;
+}
+hr{
+  visibility:hidden;
+}
